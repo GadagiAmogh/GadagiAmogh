@@ -1,8 +1,5 @@
+[![amogh gadagi header](https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/My%20project.jpg)]
 
-
-<p align="center">
-  <img width="720" height="480" src="https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/AI_head.jpeg">
-</p>
 
 <p align='center'>
 <a href="https://twitter.com/AmoghGadagi"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
