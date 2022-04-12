@@ -10,7 +10,7 @@
 
 Hey there 👋,
 
-In love with machines, as a Mechanical Engineer and an AI and ML Engineer.
+In love with machines, as a Mechanical Engineer and an AI/ML Engineer.
 
 A passionate Mechanical Engineer and AI enthusiast who wants to build game changing AL/ML products to help disabled. Want to talk about AI, just give a buzzz!
 
