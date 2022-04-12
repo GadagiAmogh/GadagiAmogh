@@ -1,4 +1,4 @@
-[![amogh gadagi header](https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/My%20project.png)]
+[![amogh gadagi header](https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/banner.png)]
 
 
 <p align='center'>
