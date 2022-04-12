@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1080" height="600" src="https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/AI_head.jpeg">
+  <img width="720" height="480" src="https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/AI_head.jpeg">
 </p>
 
 <p align='center'>
