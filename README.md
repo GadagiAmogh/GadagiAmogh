@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img width="720" height="480" src="https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/AI_head.jpeg">
 </p>
