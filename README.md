@@ -1,10 +1,10 @@
-[![amogh gadagi header](https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/My%20project.jpg)]
+[![amogh gadagi header](https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/My%20project.png)]
 
 
 <p align='center'>
-<a href="https://twitter.com/AmoghGadagi"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/amoghgadagi/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amoghgadagi/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/AmoghGadagi"><img height="30" src="https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/twitter.jpg"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/amoghgadagi/"><img height="30" src="https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/amoghgadagi/"><img height="30" src="https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/linkedin.png"></a>
 </p>
 
 Hi there 👋,
@@ -45,6 +45,9 @@ Taking up MSc in AI/Ml and other courses from MOOC and without wasting time impl
 
 ### Some of my skills 
 
+ <p>
+  <img width="225" height="150" align='right' src="https://github.com/GadagiAmogh/GadagiAmogh/blob/main/Icons/istockphoto-637711198-612x612.jpg">
+</p>
 
 - Product development (CAD): AutoCAD, Solidworks, MATLAB, SolidEdge
 - Simulation/Analysis tools: Simulink, ANSYS, Abaqus, Patran/Nastran, Cosmol.
