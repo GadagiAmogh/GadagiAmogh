@@ -42,3 +42,18 @@ If you are ever in town and want to catchup for a quick game of badminton, squas
 
 Currently working as a Mechanical Engineer along with developing my AI/ML skills.</p>
 Taking up MSc in AI/Ml and other courses from MOOC and without wasting time implementing mechanical engineering and AI skills to build game changing products.
+
+ ---
+
+
+### Some of my skills 
+
+
+- Product development (CAD): AutoCAD, Solidworks, MATLAB, SolidEdge
+- Simulation/Analysis tools: Simulink, ANSYS, Abaqus, Patran/Nastran, Cosmol.
+- AI and Machine Learning: Computer Vision, OpenCV, TensorFlow lite, TensorFlow Micro
+- Computational Programming: Python, Matlab, Tensorflow, Numpy, Keras, PyTorch
+- Data Science: Minitab, Tableau, JMP, Design Expert, MySQL
+- Manufacturing and Quality: Lean Six Sigma, Statistical Process Control, DFM RCA, PPAP, Continuous Process Improvement, 8D
+
+
